@@ -1,2 +1,6 @@
 # hello-world
-Just another hello-world repository
+
+HELLO FELLOW HUMANS,
+
+THIS IS AN TEST TO SEE IF HUMANS CAN SEE THIS OR WHATEVER.
+I'AM DEFINITLEY NOT A ROBOT. GOOD DAY.
